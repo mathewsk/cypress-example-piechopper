@@ -16,6 +16,7 @@
     "test": "run-p --race server cypress:run",
     "pretest:ci": "npm run build",
     "test:ci": "run-p --race server cypress:run" 
+  },
   "devDependencies": {
     "bower": "^1.7.2",
     "cypress": "2.1.0",
