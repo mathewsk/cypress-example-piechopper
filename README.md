@@ -1,4 +1,4 @@
-# PieChopper [![Travis CI](https://travis-ci.org/cypress-io/cypress-example-piechopper.svg?branch=master)](https://travis-ci.org/cypress-io/cypress-example-piechopper) [![Circle CI](https://circleci.com/gh/cypress-io/cypress-example-piechopper.svg?style=svg)](https://circleci.com/gh/cypress-io/cypress-example-piechopper) [![Build status](https://ci.appveyor.com/api/projects/status/o6522037ibcaluj6?svg=true)](https://ci.appveyor.com/project/cypress-io/cypress-example-piechopper)
+# PieChopper [![Travis CI](https://travis-ci.org/mathewsk/cypress-example-piechopper.svg?branch=master)](https://travis-ci.org/mathewsk/cypress-example-piechopper) [![Circle CI](https://circleci.com/gh/cypress-io/cypress-example-piechopper.svg?style=svg)](https://circleci.com/gh/cypress-io/cypress-example-piechopper) [![Build status](https://ci.appveyor.com/api/projects/status/o6522037ibcaluj6?svg=true)](https://ci.appveyor.com/project/cypress-io/cypress-example-piechopper)
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/cypress-io/cypress-example-piechopper.svg)](https://greenkeeper.io/)
 
